@@ -19,7 +19,7 @@ if __name__ == '__main__':
 
     # Modify the GitHub token value
     headers = {'User-Agent': 'Mozilla/5.0',
-               'Authorization': 'token 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',
+               'Authorization': 'token ************************************',
                'Content-Type': 'application/json',
                'Accept': 'application/json'
                }
